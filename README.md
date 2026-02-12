@@ -26,6 +26,17 @@ The system is split into three modules:
 | Decision | `decision/` | Q-learning agent trained over 400,000 episodes |
 | Control | `control/` | Motor control and trajectory planning for DOFBOT |
 
+
+
+
+## Demo
+
+https://github.com/user-attachments/assets/e8624f03-0c77-4c8b-ad30-adfe14059fc6
+
+
+*DOFBOT playing Three Men's Morris against a human*
+
+
 ## Key Results
 
 - **Detection accuracy:** 88% with YOLOv8 under variable lighting conditions
