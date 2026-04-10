@@ -68,9 +68,6 @@ See `docs/` for detailed setup instructions per module.
 - [x] Robot arm control (DOFBOT)
 - [ ] Full pipeline integration refinement (in progress on feature branches)
 
-## Publication
-
-*Hounsinou, Fangnon, Kochoni, Kpokpo — "Intégration de l'apprentissage par renforcement et de la vision par ordinateur pour le jeu de Morpion avec un bras robotique"*
 
 ## License
 
